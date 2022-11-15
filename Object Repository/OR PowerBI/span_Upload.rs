@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Upload</name>
+   <tag></tag>
+   <elementGuidId>fb1ac1fa-99ea-42e9-9929-44cc4fbee98f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.buttonProviderFormat.submitBtn.BigBtn.viewExcelBtn > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Data'])[1]/preceding::span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>296807c4-89cc-4319-94a7-574c507aee42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>localize</name>
+      <type>Main</type>
+      <value>Upload</value>
+      <webElementGuid>7bdb727e-1a01-4bc2-bcdb-dade2d034225</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload</value>
+      <webElementGuid>845c3f82-9c98-440e-8885-a9982cb07614</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/modern-get-data[@class=&quot;ng-star-inserted&quot;]/lazy-load-legacy-content-slider[1]/content-provider-store-modern-wrapper[@class=&quot;sliderPane ng-star-inserted&quot;]/content-provider-store-modern[@class=&quot;sliderPane&quot;]/div[@class=&quot;sliderContentView contentProviderStore&quot;]/div[@class=&quot;contentProviderStoreContent&quot;]/div[@class=&quot;tileContainer localFile&quot;]/div[@class=&quot;excelContent&quot;]/div[@class=&quot;uploadFormat&quot;]/table[@class=&quot;contentContainer&quot;]/tbody[1]/tr[@class=&quot;contentItem&quot;]/td[@class=&quot;optionColumn&quot;]/div[@class=&quot;contentBtnItem&quot;]/button[@class=&quot;buttonProviderFormat submitBtn BigBtn viewExcelBtn&quot;]/span[1]</value>
+      <webElementGuid>f50876ae-1e2e-49f9-b302-d1687b64ee65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import'])[1]/following::span[1]</value>
+      <webElementGuid>62b64bff-8435-4898-9df8-68cb1f9b7727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect to the data in your workbook so you can create Power BI reports and dashboards for it.'])[1]/following::span[3]</value>
+      <webElementGuid>aa3d7dac-22cc-45b1-a951-9a03e702f401</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[2]</value>
+      <webElementGuid>91725c7b-8fe5-4744-aedd-76102f717a86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Data'])[1]/preceding::span[2]</value>
+      <webElementGuid>954a484e-9cee-4a82-9793-9f7b9f2333dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upload']/parent::*</value>
+      <webElementGuid>15c3bc10-c1b8-48e9-9732-9556f3e42482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/modern-get-data/lazy-load-legacy-content-slider/content-provider-store-modern-wrapper/content-provider-store-modern/div/div[2]/div[3]/div/div/table/tbody/tr[5]/td[3]/div/button/span</value>
+      <webElementGuid>1538ebf5-ae07-4f00-9a7b-44a5fdb932a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/button/span</value>
+      <webElementGuid>119007ca-144a-44c3-b598-f3c4c1aaa0b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_test</name>
+   <tag></tag>
+   <elementGuidId>fa6fa6c7-9d93-4f66-9b53-657b6f967b9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>iframe[title=&quot;Create dialog&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//iframe[@title = 'Create']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>4ab6c790-1eb3-4f85-9d8c-f28a01a027bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-page</name>
+      <type>Main</type>
+      <value>/_portal/modal-form-template-path/6d6b3012-e709-4c45-a00d-df4b3befc518</value>
+      <webElementGuid>e78bc41e-478d-4438-b2e1-1468010458e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_portal/modal-form-template-path/6d6b3012-e709-4c45-a00d-df4b3befc518?entityformid=96b5410b-e123-e911-a96c-000d3a34afa9&amp;languagecode=1033&amp;refentity=cfra_flaggingrequest&amp;refid=55f1ddb6-2e50-ed11-97b0-00155da01d4a&amp;refrel=cfra_cfra_flaggingrequest_cfra_worklocation_FlaggingRequest</value>
+      <webElementGuid>1584e0a8-8e9b-4e66-9eb9-3b49e13245c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Create dialog</value>
+      <webElementGuid>c8a81b86-5606-4d84-ad25-713247ec0fb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;worklocation&quot;)/div[@class=&quot;entity-grid subgrid&quot;]/section[@class=&quot;modal fade modal-form modal-form-insert in&quot;]/div[@class=&quot;modal-lg modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/iframe[1]</value>
+      <webElementGuid>5bfeec53-6e63-4425-a2c7-7107732157a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='worklocation']/div/section/div/div/div[2]/iframe</value>
+      <webElementGuid>75a47e12-c865-49ec-8db1-a090f687c75d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>53887ab7-70eb-4867-98f2-717cb615c38a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@title = 'Create dialog']</value>
+      <webElementGuid>d85794fc-183a-4093-9755-436b536cbe19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

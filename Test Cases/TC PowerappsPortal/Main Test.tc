@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Main Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5aedace9-74dc-4c60-851c-bc93fb0540b3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1dec378b-0942-4d00-ab24-3a40b05b5b39</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c0757038-fb6d-47a2-a9ca-06bb2c19ffa8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>feae019f-6701-4d7b-99f6-95fdbe6c67b9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eeaa9cc1-7f44-444d-bc7f-dae8409dc5b1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Station From'</defaultValue>
+      <description></description>
+      <id>1dec378b-0942-4d00-ab24-3a40b05b5b39</id>
+      <masked>false</masked>
+      <name>test1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Station To'</defaultValue>
+      <description></description>
+      <id>c0757038-fb6d-47a2-a9ca-06bb2c19ffa8</id>
+      <masked>false</masked>
+      <name>test2</name>
+   </variable>
+   <variable>
+      <defaultValue>'Division Line Track From'</defaultValue>
+      <description></description>
+      <id>feae019f-6701-4d7b-99f6-95fdbe6c67b9</id>
+      <masked>false</masked>
+      <name>test3</name>
+   </variable>
+   <variable>
+      <defaultValue>'Division Line Track To'</defaultValue>
+      <description></description>
+      <id>eeaa9cc1-7f44-444d-bc7f-dae8409dc5b1</id>
+      <masked>false</masked>
+      <name>test4</name>
+   </variable>
+</TestCaseEntity>

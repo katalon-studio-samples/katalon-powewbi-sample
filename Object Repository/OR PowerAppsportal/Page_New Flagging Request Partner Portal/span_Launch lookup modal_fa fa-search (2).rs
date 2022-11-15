@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Launch lookup modal_fa fa-search (2)</name>
+   <tag></tag>
+   <elementGuidId>cee6f742-7652-4e50-8826-69f9fc5d99fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='EntityFormControl_EntityFormView']/div[2]/div/div/fieldset/table/tbody/tr/td[2]/div[2]/div/div[2]/button[2]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bd78c681-5e64-4933-9e77-a573d9fcbe28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-search</value>
+      <webElementGuid>0e8c5455-d99f-4d57-96ad-b0d22a2498f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>962e109f-8511-4266-9d6f-63fd81122cbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;EntityFormControl_EntityFormView&quot;)/div[@class=&quot;tab clearfix&quot;]/div[@class=&quot;tab-column&quot;]/div[1]/fieldset[1]/table[@class=&quot;section&quot;]/tbody[1]/tr[1]/td[@class=&quot;clearfix cell lookup form-control-cell&quot;]/div[@class=&quot;control&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;input-group-btn&quot;]/button[@class=&quot;btn btn-default launchentitylookup&quot;]/span[@class=&quot;fa fa-search&quot;]</value>
+      <webElementGuid>b6ba9a2e-b27d-4569-b482-0095cde4b017</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR PowerAppsportal/Page_New Flagging Request Partner Portal/iframe_1</value>
+      <webElementGuid>ede76aea-2bc5-40b4-8519-025a68989131</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='EntityFormControl_EntityFormView']/div[2]/div/div/fieldset/table/tbody/tr/td[2]/div[2]/div/div[2]/button[2]/span[2]</value>
+      <webElementGuid>4cc6cfb9-d9ed-47a7-82a7-5176ba9840c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div[2]/div/div[2]/button[2]/span[2]</value>
+      <webElementGuid>85e17e3c-ec2f-4238-bfb8-cc5a275fc09f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@class = 'fa fa-search']</value>
+      <webElementGuid>30545d61-1222-45a1-a617-c11501212e47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

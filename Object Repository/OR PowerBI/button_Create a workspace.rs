@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Create a workspace</name>
+   <tag></tag>
+   <elementGuidId>3f49e7bb-4f8e-4dbb-b719-4bb86f92dbfe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.addWorkspace</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort'])[1]/preceding::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>61607e55-8646-435f-9d1f-60ac375dc070</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>localize</name>
+      <type>Main</type>
+      <value>GroupEditor_Title_CreateGroup</value>
+      <webElementGuid>9c5a82ab-7900-4512-902f-324251f775ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>addWorkspace</value>
+      <webElementGuid>b5acd066-8a6c-4a60-9b1b-ddd5f59a62c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>pbi-focus-tracker-idx</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>57791936-d6fa-4b84-8b2f-1c9ac32330d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create a workspace</value>
+      <webElementGuid>55ac10a2-c8d8-49c8-b8f8-d13073890942</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-2&quot;)/nav[@class=&quot;ng-star-inserted&quot;]/nav-pane-workspaces[@class=&quot;fluent-theme&quot;]/button[@class=&quot;addWorkspace&quot;]</value>
+      <webElementGuid>794715f8-3707-4dac-acc1-07202f94b968</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revenue'])[4]/following::button[2]</value>
+      <webElementGuid>1ab56e1f-f0fd-4c9c-810a-da8b5d389f13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Workspace'])[1]/following::button[4]</value>
+      <webElementGuid>5c529e62-6a74-4bf2-9809-29503f64821d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort'])[1]/preceding::button[1]</value>
+      <webElementGuid>d1237779-f387-4a2c-a54e-16d5bf3c4c6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create a workspace']/parent::*</value>
+      <webElementGuid>63d4384c-d4b4-46ae-bd58-8cff6bc7ab9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-2']/nav/nav-pane-workspaces/button</value>
+      <webElementGuid>6c531cff-5291-4556-8511-3413f5117196</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav-pane-workspaces/button</value>
+      <webElementGuid>87888df2-b1ef-4e3b-921c-c9bb6a5a0cd6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

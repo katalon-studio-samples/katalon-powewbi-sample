@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Upload</name>
+   <tag></tag>
+   <elementGuidId>1a904e96-2450-428f-a1de-2e8a42660317</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.buttonProviderFormat.submitBtn.BigBtn.viewExcelBtn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Import'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>943f03c2-142f-4c9c-bfb5-e9343076894a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>buttonProviderFormat submitBtn BigBtn viewExcelBtn</value>
+      <webElementGuid>c84bf769-59be-4734-a70d-f0bbf9add46e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>chooseFormat(1)</value>
+      <webElementGuid>73c0bb7c-bb43-4b9e-bc89-e6ac35a77ba9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>restrictServiceOutboundFlowsEnabled || inProgress</value>
+      <webElementGuid>4062531a-773c-4007-9c5b-d4aa3d8c82bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{ffxlDisabled: restrictServiceOutboundFlowsEnabled}</value>
+      <webElementGuid>df80dfef-c9a8-459d-8f4c-334edf64e5d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>pbi-focus-tracker-idx</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>bd90091a-27d0-46a4-8cd9-2035e129d745</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload</value>
+      <webElementGuid>ab50e237-88b8-4d9a-9a58-e9b7bad15b50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/modern-get-data[@class=&quot;ng-star-inserted&quot;]/lazy-load-legacy-content-slider[1]/content-provider-store-modern-wrapper[@class=&quot;sliderPane ng-star-inserted&quot;]/content-provider-store-modern[@class=&quot;sliderPane&quot;]/div[@class=&quot;sliderContentView contentProviderStore&quot;]/div[@class=&quot;contentProviderStoreContent&quot;]/div[@class=&quot;tileContainer localFile&quot;]/div[@class=&quot;excelContent&quot;]/div[@class=&quot;uploadFormat&quot;]/table[@class=&quot;contentContainer&quot;]/tbody[1]/tr[@class=&quot;contentItem&quot;]/td[@class=&quot;optionColumn&quot;]/div[@class=&quot;contentBtnItem&quot;]/button[@class=&quot;buttonProviderFormat submitBtn BigBtn viewExcelBtn&quot;]</value>
+      <webElementGuid>ad6073f4-9e7a-4cdd-9da4-4d82b191f8d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import'])[1]/following::button[1]</value>
+      <webElementGuid>82befe5b-fa49-421d-9bc6-58385fa8f635</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect to the data in your workbook so you can create Power BI reports and dashboards for it.'])[1]/following::button[2]</value>
+      <webElementGuid>92282ad0-9e00-4a63-94ea-76363b1d3eef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
+      <webElementGuid>ff1c5454-a1b8-441e-9ed2-3653c9a987c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/modern-get-data/lazy-load-legacy-content-slider/content-provider-store-modern-wrapper/content-provider-store-modern/div/div[2]/div[3]/div/div/table/tbody/tr[5]/td[3]/div/button</value>
+      <webElementGuid>b498f0c0-eb32-4a27-8532-f54b68e90d73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/button</value>
+      <webElementGuid>72e8ab71-9ffc-4e26-bdd7-bc44f29504dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

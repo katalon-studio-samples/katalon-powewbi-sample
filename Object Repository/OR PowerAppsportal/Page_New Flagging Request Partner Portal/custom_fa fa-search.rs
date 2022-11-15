@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>custom_fa fa-search</name>
+   <tag></tag>
+   <elementGuidId>52b986bd-55e9-49eb-ab7f-0133532d62f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fa.fa-search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>.//*[@data-original-title='Launch lookup modal']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>75c1c369-12c6-47d0-861e-947458350cac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-search</value>
+      <webElementGuid>0010a5f6-6e86-4678-88c5-77d500bcd208</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b7722c5b-a41a-4b3c-98ca-6f977279f8e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;EntityFormView&quot;)/div[@class=&quot;tab clearfix&quot;]/div[@class=&quot;tab-column&quot;]/div[1]/fieldset[1]/table[@class=&quot;section&quot;]/tbody[1]/tr[2]/td[@class=&quot;clearfix cell lookup form-control-cell&quot;]/div[@class=&quot;control&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;input-group-btn&quot;]/button[@class=&quot;btn btn-default launchentitylookup&quot;]/span[@class=&quot;fa fa-search&quot;]</value>
+      <webElementGuid>567b0e12-fec8-4d96-b821-90a971de176a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='EntityFormView']/div[2]/div/div/fieldset/table/tbody/tr[2]/td/div[2]/div/div[2]/button[2]/span[2]</value>
+      <webElementGuid>7b0b666c-b60b-4140-b992-3baaaaf475f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span[2]</value>
+      <webElementGuid>fc8149de-47af-4e12-b0b4-bf31378f80bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@class = 'fa fa-search']</value>
+      <webElementGuid>c0606469-9dd1-4a59-b06b-11b678c9c3d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

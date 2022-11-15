@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_MohitManagerRecom</name>
+   <tag></tag>
+   <elementGuidId>fa88c601-3edd-48a5-9131-be9dae028a03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.tab-inactive.tab-hover > a.tab-anchor-text > span.tab-content-container.leave-size-fixed-on-tab-hover > span.dark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='MohitRatings'])[1]/following::span[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>576307ca-c4ba-4976-b2f3-6b30dd42f786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dark</value>
+      <webElementGuid>7c4ee318-61bd-40a0-b393-6d2ba72f7414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>eec765c8-57a8-48e5-abc8-f8ef05656c30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MohitManagerRecom</value>
+      <webElementGuid>3c9cd9f1-1a71-4608-a337-2e7307e6b93f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ewaSyndewaDiv_ctl07_ewaCtl_m_sheetTabBar&quot;)/div[@class=&quot;ewa-stb-contentarea&quot;]/div[@class=&quot;ewa-stb-tabarea ewa-stb-disable-scrollbar&quot;]/ul[@class=&quot;ewa-stb-tabs&quot;]/li[@class=&quot;tab-inactive tab-hover&quot;]/a[@class=&quot;tab-anchor-text&quot;]/span[@class=&quot;tab-content-container leave-size-fixed-on-tab-hover&quot;]/span[@class=&quot;dark&quot;]</value>
+      <webElementGuid>716db44f-6d87-4277-a78d-bdd957bfc77d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/OR PowerBI/iframe</value>
+      <webElementGuid>4620538b-5af2-49fa-92c1-375ef28fd8f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MohitRatings'])[1]/following::span[4]</value>
+      <webElementGuid>5659481c-cd34-4cdd-9318-a71520243d74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cycle'])[1]/following::span[8]</value>
+      <webElementGuid>ea4c3dcb-f613-4a42-8f06-ee37a4b57be2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/preceding::span[3]</value>
+      <webElementGuid>862ae265-75ec-456b-9588-0180f62a50be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Template'])[1]/preceding::span[7]</value>
+      <webElementGuid>1c205a38-4157-403c-9e80-4917bc0ae99a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MohitManagerRecom']/parent::*</value>
+      <webElementGuid>fbc6ac9b-5948-4430-8c64-a825d36818c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ewaSyndewaDiv_ctl07_ewaCtl_m_sheetTabBar']/div[2]/div/ul/li[3]/a/span/span[2]</value>
+      <webElementGuid>98b3cf07-2f0b-420a-bf27-14ae89a3c89f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/span/span[2]</value>
+      <webElementGuid>230324f2-6a1b-4904-9a9b-580289814d6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

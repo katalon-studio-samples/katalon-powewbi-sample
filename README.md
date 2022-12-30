@@ -3,7 +3,7 @@
 
 This project demonstrates how katalon studio helps users to automate Power BI applications. it contains two powerBI appliction with some sample test cases.
 
-# Requrimemts
+# Requirements
 
 * Katalon Studio
 * PowerBI Test account
